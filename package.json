@@ -1,0 +1,23 @@
+{
+  "name": "rtms",
+  "version": "1.0.0",
+  "description": "A real time monitoring system for traffic",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "monitoring",
+    ""
+  ],
+  "author": "Mercy Mtae",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
